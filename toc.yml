@@ -1,0 +1,19 @@
+
+- name: Learning Path
+  href: https://learningpath.microsoft.com/7442
+- name: Delivery Guide
+  href: wasa-overview.md
+  items:
+  - name: Customer Delivery Scoping
+    href: wasa-scoping.md
+  - name: Assessment Engagement
+    href: wasa-assessmentengagement.md
+  - name: Reporting
+    href: wasa-reporting.md
+  - name: Pre-Closeout
+    href: ../../waf-precloseout.md
+  - name: Closeout
+    href: wasa-closeout.md
+
+      
+      
